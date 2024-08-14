@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Python script
+temp_script.py
+
+# Main Script
+app.js
+
+# Logs
+logs/
+*.log
+
+# API Keys and sensitive data
+config/
