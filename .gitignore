@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
 
-# Environment variables
+# Environment variables along with Api key
 .env
 
 # Python script
@@ -14,5 +14,5 @@ app.js
 logs/
 *.log
 
-# API Keys and sensitive data
+# sensitive data
 config/
